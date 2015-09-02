@@ -12,7 +12,7 @@ to be implemented
 ====
 
 . bubble sort
-. 
+. insertion sort
 
 . merge sort
 . quick sort
